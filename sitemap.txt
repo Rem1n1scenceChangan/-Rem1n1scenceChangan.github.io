@@ -1,2 +1,7 @@
+http://example.com/2023/04/15/frist/
 http://example.com/2023/04/15/hello-world/
 http://example.com/
+http://example.com/tags/man/
+http://example.com/tags/beautiful/
+http://example.com/tags/
+http://example.com/categories/milk/
