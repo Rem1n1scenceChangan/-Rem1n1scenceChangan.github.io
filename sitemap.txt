@@ -1,3 +1,4 @@
+http://example.com/2023/06/08/DNN_Watermarking/
 http://example.com/2023/06/01/issue/
 http://example.com/2023/04/24/stack_overflow/
 http://example.com/2023/04/15/frist/
