@@ -1,2 +1,4 @@
+http://example.com/2023/06/07/DNN_watermarking/
+http://example.com/2023/06/26/stack_overflow/
 http://example.com/2023/04/15/hello-world/
 http://example.com/
